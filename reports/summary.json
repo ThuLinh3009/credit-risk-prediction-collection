@@ -1,0 +1,7 @@
+{
+  "best_model": "XGBoost",
+  "best_model_test_auc": 0.7879503395461848,
+  "n_train": 18000,
+  "n_val": 6000,
+  "n_test": 6000
+}

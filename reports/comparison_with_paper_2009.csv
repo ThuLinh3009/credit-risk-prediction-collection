@@ -1,0 +1,5 @@
+model,auc_2026,auc_approx_2009,improvement_pct,note
+XGBoost,0.7879503395461848,,,khong co trong paper goc (2009)
+Random Forest,0.7827252743921171,,,khong co trong paper goc (2009)
+Neural Network,0.7781753345510799,0.77,1.061731759880504,"quy doi tu area ratio (Table 1, Yeh & Lien 2009)"
+Logistic Regression,0.7445914584754795,0.72,3.4154803438165975,"quy doi tu area ratio (Table 1, Yeh & Lien 2009)"

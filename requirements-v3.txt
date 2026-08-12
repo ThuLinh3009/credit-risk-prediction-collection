@@ -1,0 +1,5 @@
+# Version 3 — dep them cho Optuna hyperparameter tuning.
+# File nay KHONG thay the requirements.txt goc; cai:
+#   pip install -r requirements.txt -r requirements-v2.txt -r requirements-v3.txt
+-r requirements-v2.txt
+optuna

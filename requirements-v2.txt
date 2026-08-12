@@ -1,0 +1,6 @@
+# Version 2 — deps them cho GBM/LightGBM va thi nghiem SMOTE.
+# File nay KHONG thay the requirements.txt goc; cai ca hai:
+#   pip install -r requirements.txt -r requirements-v2.txt
+-r requirements.txt
+lightgbm
+imbalanced-learn
